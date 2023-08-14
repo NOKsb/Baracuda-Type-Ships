@@ -1,7 +1,7 @@
 A = -40
 
 return model =
-  name: 'Jauggernaut'
+  name: 'Jauggernau'
   level: 1
   model: 1
   size: 1.05
