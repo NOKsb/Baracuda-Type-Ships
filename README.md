@@ -1,3 +1,9 @@
+| **Click To See Image** |
+| - |
+| [Epicentre](https://github.com/NOKsb/Baracuda-Type-Ships#epicentre) |
+| [Jauggernaut](https://github.com/NOKsb/Baracuda-Type-Ships#jauggernaut) |
+| [Mjölnir](https://github.com/NOKsb/Baracuda-Type-Ships#mj%C3%B6lnir) |
+
 # Epicentre
 
 <div align="left">
