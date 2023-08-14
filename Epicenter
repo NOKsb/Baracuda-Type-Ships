@@ -1,6 +1,6 @@
 A = 10
 return model =
-  name: 'Epicentre'
+  name: 'Epicentr'
   level: 7
   model: 4
   size: 4
