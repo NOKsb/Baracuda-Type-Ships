@@ -1,9 +1,9 @@
 # Board
 | **Click To See Image** |
 | - |
-| [Epicentre](https://github.com/NOKsb/Baracuda-Type-Ships#epicentre) |
-| [Jauggernaut](https://github.com/NOKsb/Baracuda-Type-Ships#jauggernaut) |
-| [Mjölnir](https://github.com/NOKsb/Baracuda-Type-Ships#mj%C3%B6lnir) |
+| [Epicentre](https://github.com/NOKsb/Baracuda-Type-Ships#epicentre-go-to-board) |
+| [Jauggernaut](https://github.com/NOKsb/Baracuda-Type-Ships#jauggernaut-go-to-board) |
+| [Mjölnir](https://github.com/NOKsb/Baracuda-Type-Ships#mj%C3%B6lnir-go-to-board) |
 
 # Epicentre [Go To Board](https://github.com/NOKsb/Baracuda-Type-Ships#board)
 
