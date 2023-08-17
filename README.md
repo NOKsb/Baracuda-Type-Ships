@@ -1,5 +1,5 @@
 # Board
-| **Click To See Image** |
+| **Click To See Picture** |
 | - |
 | [Epicentre](https://github.com/NOKsb/Baracuda-Type-Ships#epicentre-go-to-board) |
 | [Jauggernaut](https://github.com/NOKsb/Baracuda-Type-Ships#jauggernaut-go-to-board) |
