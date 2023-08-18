@@ -19,9 +19,9 @@
     <a><img src="https://media.discordapp.net/attachments/778662702662549537/1096493719156441219/starblast-1681494789657.png" width="400" alt="Megalodon-s-dueling-code" /><img src="https://media.discordapp.net/attachments/778662702662549537/1096493719374540930/starblast-1681494828767.png" width="400" alt="Megalodon-s-dueling-code" /></a>
 </div>
 
-# Board
+# Pictures Board
 | **Click To See Picture** |
 | - |
-| [Epicentre](https://github.com/NOKsb/Baracuda-Type-Ships#epicentre-go-to-board) |
-| [Jauggernaut](https://github.com/NOKsb/Baracuda-Type-Ships#jauggernaut-go-to-board) |
-| [Mjölnir](https://github.com/NOKsb/Baracuda-Type-Ships#mj%C3%B6lnir-go-to-board) |
+| [Epicentre](https://github.com/NOKsb/Baracuda-Type-Ships#epicentre---go-to-the-pictures-board) |
+| [Jauggernaut](https://github.com/NOKsb/Baracuda-Type-Ships#epicentre---go-to-the-pictures-board) |
+| [Mjölnir](https://github.com/NOKsb/Baracuda-Type-Ships#epicentre---go-to-the-pictures-board) |
