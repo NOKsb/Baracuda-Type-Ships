@@ -11,7 +11,6 @@
 <div align="center">
     <a><img src="https://media.discordapp.net/attachments/778662702662549537/1140729481737293874/starblast-1692041404435.png" width="400" alt="Megalodon-s-dueling-code" /><img src="https://media.discordapp.net/attachments/778662702662549537/1140729482018300015/starblast-1692041318995.png" width="400" alt="Megalodon-s-dueling-code" /></a>
 </div>
-### [Get ship's code](https://github.com/NOKsb/Baracuda-Type-Ships/blob/main/Epicenter)
 
 # Mjölnir - [Go to the pictures board](https://github.com/NOKsb/Baracuda-Type-Ships#pictures-board)
 ### [Get ship's code](https://github.com/NOKsb/Baracuda-Type-Ships/blob/main/Mjölnir)
@@ -23,5 +22,5 @@
 | **Click To See Picture** |
 | - |
 | [Epicentre](https://github.com/NOKsb/Baracuda-Type-Ships#epicentre---go-to-the-pictures-board) |
-| [Jauggernaut](https://github.com/NOKsb/Baracuda-Type-Ships#epicentre---go-to-the-pictures-board) |
-| [Mjölnir](https://github.com/NOKsb/Baracuda-Type-Ships#epicentre---go-to-the-pictures-board) |
+| [Jauggernaut](https://github.com/NOKsb/Baracuda-Type-Ships#jauggernaut---go-to-the-pictures-board) |
+| [Mjölnir](https://github.com/NOKsb/Baracuda-Type-Ships#mj%C3%B6lnir---go-to-the-pictures-board) |
