@@ -1,4 +1,8 @@
-
+# Cyrano - [Go to the pictures board](https://github.com/NOKsb/Baracuda-Type-Ships#pictures-board)
+### [Get ship's code 🔽](https://github.com/NOKsb/Baracuda-Type-Ships/blob/main/Cyrano)
+<div align="center">
+    <a><img src="https://media.discordapp.net/attachments/778662702662549537/1142459349659295845/starblast-1692453895796.png" width="400" alt="Megalodon-s-dueling-code" /><img src="https://media.discordapp.net/attachments/778662702662549537/1142459349898379414/starblast-1692453916527.png" width="400" alt="Megalodon-s-dueling-code" /></a>
+</div>
 
 # Epicentre - [Go to the pictures board](https://github.com/NOKsb/Baracuda-Type-Ships#pictures-board)
 ### [Get ship's code 🔽](https://github.com/NOKsb/Baracuda-Type-Ships/blob/main/Epicenter)
@@ -21,6 +25,7 @@
 # Pictures Board
 | **Click To See Picture** |
 | - |
+| [Cyrano](https://github.com/NOKsb/Baracuda-Type-Ships#cyrano---go-to-the-pictures-board) |
 | [Epicentre](https://github.com/NOKsb/Baracuda-Type-Ships#epicentre---go-to-the-pictures-board) |
 | [Jauggernaut](https://github.com/NOKsb/Baracuda-Type-Ships#jauggernaut---go-to-the-pictures-board) |
 | [Mjölnir](https://github.com/NOKsb/Baracuda-Type-Ships#mj%C3%B6lnir---go-to-the-pictures-board) |
