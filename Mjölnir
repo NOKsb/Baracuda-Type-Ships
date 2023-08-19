@@ -1,20 +1,27 @@
 return model =
-  name: 'Mjölnir'
-  level: 1
-  model: 1
-  size: 1.05
+  name: 'Mjolnir'
+  level: 5
+  model: 7
+  size: 2.3
   specs:
     shield:
-      capacity: [75,100]
-      reload: [2,3]
+      capacity: [310,370]
+      reload: [6,8]
     generator:
-      capacity: [40,60]
+      capacity: [80,100]
       reload: [10,15]
     ship:
-      mass: 60
-      speed: [125,145]
-      rotation: [110,130]
+      mass: 450
+      speed: [85,110]
+      rotation: [50,70]
       acceleration: [100,120]
+      dash:
+        rate: 2
+        burst_speed: [210,260]
+        speed: [130,180]
+        acceleration: [70,70]
+        initial_energy: [55,70]
+        energy: [20,30]
   bodies:
     main:
       section_segments: 16
