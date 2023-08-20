@@ -3,22 +3,22 @@ return model =
   name: 'Epicentre'
   level: 7
   model: 3
-  size: 4
+  size: 4.5
   specs:
     shield:
-      capacity: [500,500]
+      capacity: [550,550]
       reload: [8,8]
     generator:
       capacity: [250,250]
-      reload: [23,23]
+      reload: [30,30]
     ship:
       mass: 800
-      speed: [100,100]
+      speed: [130,130]
       rotation: [100,100]
       acceleration: [100,100]
       dash:
         rate: 5
-        burst_speed: [450,450]
+        burst_speed: [400,400]
         speed: [170,170]
         acceleration: [160,160]
         initial_energy: [160,160]
