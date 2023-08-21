@@ -1,4 +1,3 @@
-A = 10
 return model =
   name: 'Epicentre'
   level: 7
@@ -10,11 +9,11 @@ return model =
       reload: [8,8]
     generator:
       capacity: [250,250]
-      reload: [30,30]
+      reload: [23,23]
     ship:
       mass: 800
-      speed: [130,130]
-      rotation: [100,100]
+      speed: [100,100]
+      rotation: [60,60]
       acceleration: [100,100]
       dash:
         rate: 5
@@ -28,7 +27,7 @@ return model =
       section_segments: [5,55,70,170,190,290,305,355]
       offset:
         x: 0
-        y: -30 + A 
+        y: -20
         z: 10
       position:
         x: [0,0,0,0,0,0,0,0,0,0,0,0]
@@ -38,12 +37,11 @@ return model =
       height: [15,25,27,20,20,23,23,20,20,15,0]
       propeller: 0
       texture: [15.8,63,19,18,63,4,3,5,63,2]
-#BUFF---------------------------------------------------------------------------      
     buff:
       section_segments: [5,40,170,190,320,355]
       offset:
         x: 0
-        y: -30 + A
+        y: -20
         z: 10.1
       position:
         x: [0,0,0,0,0,0,0,0,0]
@@ -57,511 +55,509 @@ return model =
       section_segments: [5,40,170,190,320,355]
       offset:
         x: 0
-        y: -30 + A
+        y: -20
         z: 9.9
       position:
         x: [0,0,0,0,0,0]
         y: [-76,-73,-70,-23,-8]
-        z: [-0,0,-2,-1.8,-3.87]
+        z: [0,0,-2,-1.8,-3.87]
       width: [2,10,13.9,16.6,0]
       height: [2,13,20,20,23]
       propeller: 0
-      texture: [3,2,63,4]    
+      texture: [3,2,63,4]
     buffround:
       section_segments: 16
       offset:
         x: 4
         y: 24.9
-        z: 43 + A
+        z: 53
       position:
-        x: [0,0,0,-0]
-        y: [-0,-0,2,2]
-        z: [-0,0,0,0]
+        x: [0,0,0,0]
+        y: [0,0,2,2]
+        z: [0,0,0,0]
       width: [0,3,3,0]
       height: [0,3,3,0]
       angle: 30
       vertical: 1
       texture: [12,63,17]
-      propeller: 0          
+      propeller: 0
     buffround2:
       section_segments: 16
       offset:
         x: 4
         y: 24.9
-        z: 53 + A
+        z: 63
       position:
-        x: [0,0,0,-0]
-        y: [-0,-0,2,2]
-        z: [-0,0,0,0]
+        x: [0,0,0,0]
+        y: [0,0,2,2]
+        z: [0,0,0,0]
       width: [0,3,3,0]
       height: [0,3,3,0]
       angle: 30
       vertical: 1
       texture: [12,63,17]
-      propeller: 0    
+      propeller: 0
     buffround3:
       section_segments: 16
       offset:
         x: 4
         y: 24.9
-        z: 63  + A
+        z: 73
       position:
-        x: [0,0,0,-0]
-        y: [-0,-0,2,2]
-        z: [-0,0,0,0]
+        x: [0,0,0,0]
+        y: [0,0,2,2]
+        z: [0,0,0,0]
       width: [0,3,3,0]
       height: [0,3,3,0]
       angle: 30
       vertical: 1
       texture: [12,63,17]
-      propeller: 0      
+      propeller: 0
     buffround4:
       section_segments: 16
       offset:
         x: 4
         y: 24.9
-        z: 73 + A
+        z: 83
       position:
-        x: [0,0,0,-0]
-        y: [-0,-0,2,2]
-        z: [-0,0,0,0]
+        x: [0,0,0,0]
+        y: [0,0,2,2]
+        z: [0,0,0,0]
       width: [0,3,3,0]
       height: [0,3,3,0]
       angle: 30
       vertical: 1
       texture: [12,63,17]
-      propeller: 0     
+      propeller: 0
     buffsquare:
       section_segments: [5,40,170,190,320,355]
       offset:
         x: 0
-        y: -98.5 + A
+        y: -88.5
         z: 21
       position:
-        x: [0,0,0,-0]
-        y: [-0,-0,1,1]
-        z: [-0,0,0,0]
+        x: [0,0,0,0]
+        y: [0,0,1,1]
+        z: [0,0,0,0]
       width: [0,7,7,0]
       height: [0,8,8,0]
       angle: 0
       vertical: 0
       texture: [4,1,4]
-      propeller: 0       
+      propeller: 0
     buffsquare2:
       section_segments: [5,40,170,190,320,355]
       offset:
         x: 0
-        y: -88.5 + A
+        y: -78.5
         z: 21
       position:
-        x: [0,0,0,-0]
-        y: [-0,-0,1,1]
-        z: [-0,0,0,0]
+        x: [0,0,0,0]
+        y: [0,0,1,1]
+        z: [0,0,0,0]
       width: [0,7,7,0]
       height: [0,8,8,0]
       angle: 0
       vertical: 0
       texture: [4,1,4]
-      propeller: 0       
+      propeller: 0
     buffsquare3:
       section_segments: [5,40,170,190,320,355]
       offset:
         x: 0
-        y: -78.5 + A
+        y: -68.5
         z: 21
       position:
-        x: [0,0,0,-0]
-        y: [-0,-0,1,1]
-        z: [-0,0,0,0]
+        x: [0,0,0,0]
+        y: [0,0,1,1]
+        z: [0,0,0,0]
       width: [0,7,7,0]
       height: [0,8,8,0]
       angle: 0
       vertical: 0
       texture: [4,1,4]
-      propeller: 0         
+      propeller: 0
     buffsquare4:
       section_segments: [5,40,170,190,320,355]
       offset:
         x: 0
-        y: -68.5 + A
+        y: -58.5
         z: 21
       position:
-        x: [0,0,0,-0]
-        y: [-0,-0,1,1]
-        z: [-0,0,0,0]
+        x: [0,0,0,0]
+        y: [0,0,1,1]
+        z: [0,0,0,0]
       width: [0,7,7,0]
       height: [0,8,8,0]
       angle: 0
       vertical: 0
       texture: [4,1,4]
-      propeller: 0    
+      propeller: 0
     buffsquare5:
       section_segments: [5,40,170,190,320,355]
       offset:
         x: 0
-        y: -58.5 + A
+        y: -48.5
         z: 21
       position:
-        x: [0,0,0,-0]
-        y: [-0,-0,1,1]
-        z: [-0,0,0,0]
+        x: [0,0,0,0]
+        y: [0,0,1,1]
+        z: [0,0,0,0]
       width: [0,7,7,0]
       height: [0,8,8,0]
       angle: 0
       vertical: 0
       texture: [4,1,4]
-      propeller: 0    
+      propeller: 0
     buffroundavant:
       section_segments: 16
       offset:
         x: 11.5
         y: 14.9
-        z: 89 + A
+        z: 99
       position:
-        x: [0,0,0,-0]
-        y: [-0,-0,1.5,1.5]
-        z: [-0,0,0,0]
+        x: [0,0,0,0]
+        y: [0,0,1.5,1.5]
+        z: [0,0,0,0]
       width: [0,5,5,0]
       height: [0,1,1,0]
       angle: -20
       vertical: 1
       texture: [4,17,63]
-      propeller: 0    
+      propeller: 0
     buffroundavant2:
       section_segments: 16
       offset:
         x: 12
         y: 11.1
-        z: 89 + A
+        z: 99
       position:
-        x: [0,0,0,-0]
-        y: [-0,-0,1.5,1.5]
-        z: [-0,0,0,0]
+        x: [0,0,0,0]
+        y: [0,0,1.5,1.5]
+        z: [0,0,0,0]
       width: [0,5,5,0]
       height: [0,1,1,0]
       angle: -10
       vertical: 1
       texture: [4,17,63]
-      propeller: 0      
+      propeller: 0
     buffroundavant3:
       section_segments: 16
       offset:
         x: 10.5
         y: 7.5
-        z: 89 + A
+        z: 99
       position:
-        x: [0,0,0,-0]
-        y: [-0,-0,1.5,1.5]
-        z: [-0,0,0,0]
+        x: [0,0,0,0]
+        y: [0,0,1.5,1.5]
+        z: [0,0,0,0]
       width: [0,5,5,0]
       height: [0,1,1,0]
-      angle: -0
+      angle: 0
       vertical: 1
       texture: [4,17,63]
-      propeller: 0        
+      propeller: 0
     buffroundavantmiddle:
       section_segments: 18
       offset:
         x: 0
-        y: -112 + A
+        y: -102
         z: 18
       position:
-        x: [0,0,0,-0]
-        y: [-0,-0,1,1]
-        z: [-0,0,0,0]
+        x: [0,0,0,0]
+        y: [0,0,1,1]
+        z: [0,0,0,0]
       width: [0,4,5,0]
       height: [0,4,5,0]
-      angle: -0
+      angle: 0
       vertical: 0
       texture: [15.1,17,63]
-      propeller: 0   
+      propeller: 0
     buffroundavantmiddle2:
       section_segments: 18
       offset:
         x: 0
-        y: -112 + A
+        y: -102
         z: 7.5
       position:
-        x: [0,0,0,-0]
-        y: [-0,-0,1,1]
-        z: [-0,0,0,0]
+        x: [0,0,0,0]
+        y: [0,0,1,1]
+        z: [0,0,0,0]
       width: [0,2.5,3.5,0]
       height: [0,2.5,3.5,0]
-      angle: -0
+      angle: 0
       vertical: 0
       texture: [15.1,17,63]
-      propeller: 0     
+      propeller: 0
     buffroundavantmiddle3:
       section_segments: 18
       offset:
         x: 0
-        y: -112 + A
+        y: -102
         z: -1
       position:
-        x: [0,0,0,-0]
-        y: [-0,-0,1,1]
-        z: [-0,0,0,0]
+        x: [0,0,0,0]
+        y: [0,0,1,1]
+        z: [0,0,0,0]
       width: [0,1.5,2.5,0]
       height: [0,1.5,2.5,0]
-      angle: -0
+      angle: 0
       vertical: 0
       texture: [15.1,17,63]
-      propeller: 0       
+      propeller: 0
     buffsquareavant5:
       section_segments: [5,40,170,190,320,355]
       offset:
         x: 0
-        y: -108 + A
+        y: -98
         z: 16.2
       position:
-        x: [0,0,0,-0]
-        y: [-0,-0,1,1]
-        z: [-0,0,0,0]
+        x: [0,0,0,0]
+        y: [0,0,1,1]
+        z: [0,0,0,0]
       width: [0,15,15,0]
       height: [0,16.7,17,0]
       angle: 0
       vertical: 0
       texture: [4,5,4]
-      propeller: 0      
-#MAIN 2-------------------------------------------------------------------------      
+      propeller: 0
     main2:
       section_segments: 8
       offset:
         x: 0
-        y: 30 + A
+        y: 40
         z: 20
       position:
         x: [0,0,0,0,0,0,0,0]
         y: [-67,-63,-57,-30,-10,0,40]
-        z: [0,4,-0,-0,-0,-0,4.2]
+        z: [0,4,0,0,0,0,4.2]
       width: [2,9,13,15,14,11,0]
       height: [2,5,10,10,10,10,0]
       propeller: 0
-      texture: [17,63,8,12,4,4]  
+      texture: [17,63,8,12,4,4]
     main2fin:
       section_segments: 16
       offset:
         x: 0.01
-        y: 30 + A
+        y: 40
         z: 20
       position:
         x: [9,9,13,14,13,6,-1,0]
         y: [-68,-64,-57,-30,-10,10,40]
-        z: [3.5,2,-0,-0,-0,1,3]
+        z: [3.5,2,0,0,0,1,3]
       width: [0,2,2,2,2,2,0]
       height: [0,2,2,2,2,2,0]
       propeller: 0
-      texture: [1,3,10,3,2,4]    
+      texture: [1,3,10,3,2,4]
     backsquare:
       section_segments: [5,40,170,190,320,355]
       offset:
         x: 0
-        y: 35.5 + A
+        y: 45.5
         z: 22
       position:
-        x: [0,0,0,-0]
-        y: [-0,-0,1,1]
-        z: [-0,0,0,0]
+        x: [0,0,0,0]
+        y: [0,0,1,1]
+        z: [0,0,0,0]
       width: [0,7,7,0]
       height: [0,8,8,0]
       angle: 0
       vertical: 0
       texture: [4,1,4]
-      propeller: 0      
+      propeller: 0
     backsquare2:
       section_segments: [5,40,170,190,320,355]
       offset:
         x: 0
-        y: 38.5 + A
+        y: 48.5
         z: 21.5
       position:
-        x: [0,0,0,-0]
-        y: [-0,-0,1,1]
-        z: [-0,0,0,0]
+        x: [0,0,0,0]
+        y: [0,0,1,1]
+        z: [0,0,0,0]
       width: [0,6.5,6.5,0]
       height: [0,8,8,0]
       angle: 0
       vertical: 0
       texture: [4,1,4]
-      propeller: 0       
+      propeller: 0
     backsquare3:
       section_segments: [5,40,170,190,320,355]
       offset:
         x: 0
-        y: 41.5 + A
+        y: 51.5
         z: 21
       position:
-        x: [0,0,0,-0]
-        y: [-0,-0,1,1]
-        z: [-0,0,0,0]
+        x: [0,0,0,0]
+        y: [0,0,1,1]
+        z: [0,0,0,0]
       width: [0,6,6,0]
       height: [0,8,8,0]
       angle: 0
       vertical: 0
       texture: [4,1,4]
-      propeller: 0        
+      propeller: 0
     main2round:
       section_segments: 4
       offset:
         x: 10.5
-        y: 8 + A
+        y: 18
         z: 21.5
       position:
-        x: [0,0,0,-0]
-        y: [-0,-0,1.5,1.5]
-        z: [-0,0,0,0]
+        x: [0,0,0,0]
+        y: [0,0,1.5,1.5]
+        z: [0,0,0,0]
       width: [0,4,4,0]
       height: [0,6,6,0]
       angle: 0
       vertical: 0
       texture: [17,4,4]
-      propeller: 0      
+      propeller: 0
     main2round2:
       section_segments: 4
       offset:
         x: 10.5
-        y: 11 + A
+        y: 21
         z: 21.5
       position:
-        x: [0,0,0,-0]
-        y: [-0,-0,1.5,1.5]
-        z: [-0,0,0,0]
+        x: [0,0,0,0]
+        y: [0,0,1.5,1.5]
+        z: [0,0,0,0]
       width: [0,4,4,0]
       height: [0,6,6,0]
       angle: 0
       vertical: 0
       texture: [17,4,4]
-      propeller: 0     
+      propeller: 0
     main2round3:
       section_segments: 4
       offset:
         x: 10.5
-        y: 14 + A
+        y: 24
         z: 21.5
       position:
-        x: [0,0,0,-0]
-        y: [-0,-0,1.5,1.5]
-        z: [-0,0,0,0]
+        x: [0,0,0,0]
+        y: [0,0,1.5,1.5]
+        z: [0,0,0,0]
       width: [0,4,4,0]
       height: [0,6,6,0]
       angle: 0
       vertical: 0
       texture: [17,4,4]
-      propeller: 0     
+      propeller: 0
     main2round4:
       section_segments: 4
       offset:
         x: 10.5
-        y: 17 + A
+        y: 27
         z: 21.5
       position:
-        x: [0,0,0,-0]
-        y: [-0,-0,1.5,1.5]
-        z: [-0,0,0,0]
+        x: [0,0,0,0]
+        y: [0,0,1.5,1.5]
+        z: [0,0,0,0]
       width: [0,4,4,0]
       height: [0,6,6,0]
       angle: 0
       vertical: 0
       texture: [17,4,4]
-      propeller: 0       
-     main2round02:
+      propeller: 0
+    main2round02:
       section_segments: 18
       offset:
         x: 8.4
-        y: 8 + A
+        y: 18
         z: 22.5
       position:
-        x: [0,0,0,-0]
-        y: [-0,-0,1.5,1.5]
-        z: [-0,0,0,0]
+        x: [0,0,0,0]
+        y: [0,0,1.5,1.5]
+        z: [0,0,0,0]
       width: [0,4,4,0]
       height: [0,6,6,0]
       angle: 0
       vertical: 0
       texture: [17,4,4]
-      propeller: 0        
+      propeller: 0
     main2round22:
       section_segments: 18
       offset:
         x: 8.4
-        y: 11 + A
+        y: 21
         z: 22.5
       position:
-        x: [0,0,0,-0]
-        y: [-0,-0,1.5,1.5]
-        z: [-0,0,0,0]
+        x: [0,0,0,0]
+        y: [0,0,1.5,1.5]
+        z: [0,0,0,0]
       width: [0,4,4,0]
       height: [0,6,6,0]
       angle: 0
       vertical: 0
       texture: [17,4,4]
-      propeller: 0      
+      propeller: 0
     main2round32:
       section_segments: 18
       offset:
         x: 8.4
-        y: 14 + A
+        y: 24
         z: 22.5
       position:
-        x: [0,0,0,-0]
-        y: [-0,-0,1.5,1.5]
-        z: [-0,0,0,0]
+        x: [0,0,0,0]
+        y: [0,0,1.5,1.5]
+        z: [0,0,0,0]
       width: [0,4,4,0]
       height: [0,6,6,0]
       angle: 0
       vertical: 0
       texture: [17,4,4]
-      propeller: 0      
+      propeller: 0
     main2round42:
       section_segments: 18
       offset:
         x: 8.4
-        y: 17 + A
+        y: 27
         z: 22.5
       position:
-        x: [0,0,0,-0]
-        y: [-0,-0,1.5,1.5]
-        z: [-0,0,0,0]
+        x: [0,0,0,0]
+        y: [0,0,1.5,1.5]
+        z: [0,0,0,0]
       width: [0,4,4,0]
       height: [0,6,6,0]
       angle: 0
       vertical: 0
       texture: [17,4,4]
-      propeller: 0        
-#COCKPIT------------------------------------------------------------------------      
+      propeller: 0
     cockpit:
       section_segments: 18
       offset:
         x: 0
-        y: -20 + A
+        y: -10
         z: 30
       position:
         x: [0,0,0,0,0,0,0]
         y: [-8,-5,10,23,50]
-        z: [-1,-5,-4,-3,-0]
+        z: [-1,-5,-4,-3,0]
       width: [0,6.5,8,7,0]
       height: [0,6.5,8,7,0]
       propeller: false
-      texture: [9,9,4,63]  
+      texture: [9,9,4,63]
     cockpitbis:
       section_segments: 6
       offset:
         x: 0
-        y: -20 + A
+        y: -10
         z: 30
       position:
         x: [0,0,0,0,0,0,0]
         y: [-8,-5,10,23,50]
-        z: [-1,-5,-4,-3,-0]
+        z: [-1,-5,-4,-3,0]
       width: [0,5.4,8.5,7.3,0]
       height: [0,5.4,8.55,7.4,0]
       propeller: false
-      texture: [1,2,2,2] 
+      texture: [1,2,2,2]
     cockpitbis2:
       section_segments: 6
       offset:
         x: 0
-        y: -20 + A
+        y: -10
         z: 40
       position:
         x: [0,0,0,0,0,0,0]
@@ -570,130 +566,128 @@ return model =
       width: [0,1.8,1.7,1.7,0]
       height: [0,1,1,1,0]
       propeller: false
-      texture: [1,63,63,63]   
+      texture: [1,63,63,63]
     cockpitround:
       section_segments: 16
       offset:
         x: 7
-        y: -20 + A
+        y: -10
         z: 27
       position:
-        x: [0,0,0,-0]
-        y: [-0,-0,1.5,1.5]
-        z: [-0,0,0,0]
+        x: [0,0,0,0]
+        y: [0,0,1.5,1.5]
+        z: [0,0,0,0]
       width: [0,3,3,0]
       height: [0,3,3,0]
       angle: 0
       vertical: 0
       texture: [4,63,4]
-      propeller: 0     
+      propeller: 0
     cockpitround2:
       section_segments: 16
       offset:
         x: 7
-        y: -17 + A
+        y: -7
         z: 27
       position:
-        x: [0,0,0,-0]
-        y: [-0,-0,1.5,1.5]
-        z: [-0,0,0,0]
+        x: [0,0,0,0]
+        y: [0,0,1.5,1.5]
+        z: [0,0,0,0]
       width: [0,3,3,0]
       height: [0,3,3,0]
       angle: 0
       vertical: 0
       texture: [4,63,4]
-      propeller: 0       
-#PROPULSOR----------------------------------------------------------------------
+      propeller: 0
     propulsor:
       section_segments: 16
       offset:
         x: 20
-        y: 25 + A
+        y: 35
         z: 0
       position:
         x: [-10,-5,-5,-2,-2,-2,-2,-2,2,2,2,2,2]
         y: [-100,-65,-63,-54,-45,-30,-22,-20,-15,0,28,32,20]
-        z: [4,4,4,0,-0,-0,-0,0,-0,-0,-0,0,0]
+        z: [4,4,4,0,0,0,0,0,0,0,0,0,0]
       width: [0,9.5,10,14,14,14,14,14,15,15,15,14,0]
       height: [0,4.5,5,13,13,13,13,13,14,14,15,14,0]
       propeller: 1
-      texture: [2,5,63,8,12,4,5,63,2,13,63,17]  
+      texture: [2,5,63,8,12,4,5,63,2,13,63,17]
     propulsorbis:
       section_segments: 8
       offset:
         x: 20
-        y: 25 + A
+        y: 35
         z: 0
       position:
         x: [-2,-2,-2,-2,-2,2,2,2,2,2]
         y: [-54,-45,-30,-22,-20,-15,0,17,32,10]
-        z: [0,-0,-0,-0,0,-0,-0,-0,0,0]
+        z: [0,0,0,0,0,0,0,0,0,0]
       width: [14,14.2,14.2,14.2,14.2,15.2,15.3,15.2,14,0]
       height: [13,13.2,13.2,13.2,13.2,14.2,14.2,15.2,14,0]
       propeller: 1
-      texture: [4,63,2,3,4,8,63,63]    
+      texture: [4,63,2,3,4,8,63,63]
     propround:
       section_segments: 18
       offset:
         x: 19
-        y: -1 + A
+        y: 9
         z: 11
       position:
-        x: [0,0,0,-0]
-        y: [-0,-0,2,2]
-        z: [-0,0,0,0]
+        x: [0,0,0,0]
+        y: [0,0,2,2]
+        z: [0,0,0,0]
       width: [0,5,5,0]
       height: [0,5,5,0]
       angle: 0
       vertical: 0
       texture: [63,3,4]
-      propeller: 0       
+      propeller: 0
     propround2:
       section_segments: 18
       offset:
         x: 19
-        y: -6 + A
+        y: 4
         z: 11
       position:
-        x: [0,0,0,-0]
-        y: [-0,-0,2,2]
-        z: [-0,0,0,0]
+        x: [0,0,0,0]
+        y: [0,0,2,2]
+        z: [0,0,0,0]
       width: [0,5,5,0]
       height: [0,5,5,0]
       angle: 0
       vertical: 0
       texture: [63,3,4]
-      propeller: 0         
+      propeller: 0
     propround3:
       section_segments: 18
       offset:
         x: 19
-        y: -11 + A
+        y: -1
         z: 11
       position:
-        x: [0,0,0,-0]
-        y: [-0,-0,2,2]
-        z: [-0,0,0,0]
+        x: [0,0,0,0]
+        y: [0,0,2,2]
+        z: [0,0,0,0]
       width: [0,5,5,0]
       height: [0,5,5,0]
       angle: 0
       vertical: 0
       texture: [63,3,4]
-      propeller: 0     
+      propeller: 0
     propround4:
       section_segments: 18
       offset:
         x: 19
-        y: -16 + A
+        y: -6
         z: 11
       position:
-        x: [0,0,0,-0]
-        y: [-0,-0,2,2]
-        z: [-0,0,0,0]
+        x: [0,0,0,0]
+        y: [0,0,2,2]
+        z: [0,0,0,0]
       width: [0,5,5,0]
       height: [0,5,5,0]
       angle: 0
       vertical: 0
       texture: [63,3,4]
-      propeller: 0       
-  
+      propeller: 0
