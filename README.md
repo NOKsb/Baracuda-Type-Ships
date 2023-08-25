@@ -13,7 +13,7 @@
 # Jauggernaut - [Go to the pictures board](https://github.com/NOKsb/Baracuda-Type-Ships#pictures-board)
 ### [Get ship's code 🔽](https://github.com/NOKsb/Baracuda-Type-Ships/blob/main/Jauggernaut)
 <div align="center">
-    <a><img src="https://media.discordapp.net/attachments/778662702662549537/1140729481737293874/starblast-1692041404435.png" width="400" alt="Megalodon-s-dueling-code" /><img src="https://media.discordapp.net/attachments/778662702662549537/1140729482018300015/starblast-1692041318995.png" width="400" alt="Megalodon-s-dueling-code" /></a>
+    <a><img src="https://media.discordapp.net/attachments/778662702662549537/1144618885262360586/starblast-1692968755768.png" width="400" alt="Megalodon-s-dueling-code" /><img src="https://media.discordapp.net/attachments/778662702662549537/1144618885706960946/starblast-1692968779151.png" width="400" alt="Megalodon-s-dueling-code" /></a>
 </div>
 
 # Mjölnir - [Go to the pictures board](https://github.com/NOKsb/Baracuda-Type-Ships#pictures-board)
