@@ -1,4 +1,4 @@
-# Cyrano - [Go to the pictures board](https://github.com/NOKsb/Baracuda-Type-Ships#pictures-board)
+# Cyrano - [Go to the pictures board](https://github.com/NOKsb/Baracuda-Type-Ships#pictures-board).
 ### [Get ship's code 🔽](https://github.com/NOKsb/Baracuda-Type-Ships/blob/main/Cyrano)
 <div align="center">
     <a><img src="https://media.discordapp.net/attachments/778662702662549537/1142459349659295845/starblast-1692453895796.png" width="400" alt="Megalodon-s-dueling-code" /><img src="https://media.discordapp.net/attachments/778662702662549537/1142459349898379414/starblast-1692453916527.png" width="400" alt="Megalodon-s-dueling-code" /></a>
