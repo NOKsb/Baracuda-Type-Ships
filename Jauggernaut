@@ -13,7 +13,7 @@ return model =
     ship:
       mass: 650
       speed: [65,100]
-      rotation: [50,80]
+      rotation: [30,50]
       acceleration: [100,120]
       dash:
         rate: 2
@@ -293,4 +293,3 @@ return model =
       height: [0,6,6,0]
       propeller: 0
       texture: [17,8,5]
-
